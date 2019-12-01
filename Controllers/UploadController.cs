@@ -5,7 +5,7 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Http.Internal;
 using Microsoft.AspNetCore.Mvc;
 
-namespace base64.Controllers
+namespace UploadsFile.Controllers
 {
     [Route("api/[action]")]
     [ApiController]
